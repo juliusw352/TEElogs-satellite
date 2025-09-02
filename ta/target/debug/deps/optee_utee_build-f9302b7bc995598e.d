@@ -1,0 +1,13 @@
+/home/julius/incubator-teaclave-trustzone-sdk/examples/thesis-rs/ta/target/debug/deps/liboptee_utee_build-f9302b7bc995598e.rmeta: /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/lib.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/builder.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/code_generator.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/error.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/linker.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/ta_config.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/./license_str.txt
+
+/home/julius/incubator-teaclave-trustzone-sdk/examples/thesis-rs/ta/target/debug/deps/liboptee_utee_build-f9302b7bc995598e.rlib: /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/lib.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/builder.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/code_generator.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/error.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/linker.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/ta_config.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/./license_str.txt
+
+/home/julius/incubator-teaclave-trustzone-sdk/examples/thesis-rs/ta/target/debug/deps/optee_utee_build-f9302b7bc995598e.d: /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/lib.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/builder.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/code_generator.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/error.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/linker.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/ta_config.rs /home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/./license_str.txt
+
+/home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/lib.rs:
+/home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/builder.rs:
+/home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/code_generator.rs:
+/home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/error.rs:
+/home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/linker.rs:
+/home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/ta_config.rs:
+/home/julius/incubator-teaclave-trustzone-sdk/optee-utee-build/src/./license_str.txt:

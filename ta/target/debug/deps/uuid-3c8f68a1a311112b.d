@@ -1,0 +1,12 @@
+/home/julius/incubator-teaclave-trustzone-sdk/examples/hello_world-rs/ta/target/debug/deps/libuuid-3c8f68a1a311112b.rmeta: /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/lib.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/mod.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/error.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/error.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/mod.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/error.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/prelude.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/mod.rs
+
+/home/julius/incubator-teaclave-trustzone-sdk/examples/hello_world-rs/ta/target/debug/deps/uuid-3c8f68a1a311112b.d: /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/lib.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/mod.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/error.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/error.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/mod.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/error.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/prelude.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/mod.rs
+
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/lib.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/mod.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/error.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/error.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/mod.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/error.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/prelude.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/mod.rs:

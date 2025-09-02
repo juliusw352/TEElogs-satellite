@@ -1,0 +1,11 @@
+/home/julius/incubator-teaclave-trustzone-sdk/examples/hello_world-rs/ta/target/debug/deps/liblitemap-1b384310de473661.rmeta: /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/lib.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/map.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/mod.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/slice_impl.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/vec_impl.rs
+
+/home/julius/incubator-teaclave-trustzone-sdk/examples/hello_world-rs/ta/target/debug/deps/liblitemap-1b384310de473661.rlib: /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/lib.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/map.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/mod.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/slice_impl.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/vec_impl.rs
+
+/home/julius/incubator-teaclave-trustzone-sdk/examples/hello_world-rs/ta/target/debug/deps/litemap-1b384310de473661.d: /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/lib.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/map.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/mod.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/slice_impl.rs /home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/vec_impl.rs
+
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/lib.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/map.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/mod.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/slice_impl.rs:
+/home/julius/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/vec_impl.rs:
